@@ -1,4 +1,4 @@
-# Diabetes-Scikit-Learn-Regression-Models
+# Diabetes-Scikit-Learn-Regression-Assignment
 Project Overview-- Purpose: This project utilizes machine learning regression to predict the progression of diabetes in patients. 
 
 
