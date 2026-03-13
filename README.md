@@ -5,7 +5,13 @@ Project Overview-- Purpose: This project utilizes machine learning regression to
 
 Context: Diabetes is a complex condition involving glucose regulation, and modern research uses machine learning to detect and prevent disease progression.
 
-Objective: Build and compare three distinct regression models to determine which best predicts disease outcomes based on physiological metrics.System RequirementsLanguage: Python 3.xLibraries: scikit-learn, pandas, numpy
+Objective: Build and compare three distinct regression models to determine which best predicts disease outcomes based on physiological metrics.
+
+System Requirements
+
+Language: 
+
+Python 3.xLibraries: scikit-learn, pandas, numpy
 
 Execution Environment: Any Python IDE or terminal with the above libraries installed.
 
